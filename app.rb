@@ -9,3 +9,12 @@ while n < 10
   puts "salut monde"
   n += 1
 end
+
+m = 1
+until m > 10
+  puts "holly world"
+  m += 1
+end
+
+
+(0..10).each { puts 'hello'}
